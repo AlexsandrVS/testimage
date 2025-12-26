@@ -1,0 +1,9 @@
+{
+  "name": "Shindin NFT #2",
+  "description": "Second NFT by Shindin A.O.",
+  "image": "https://raw.githubusercontent.com/AlexsandrVS/testimage/main/2.png",
+  "attributes": [
+    {"trait_type": "Number", "value": "2"},
+    {"trait_type": "Author", "value": "Shindin A.O."}
+  ]
+}
